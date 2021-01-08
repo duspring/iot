@@ -19,7 +19,7 @@ import java.util.List;
 
 /**
  * @author: spring du
- * @description:
+ * @description: 列表状态处理逻辑类
  * @date: 2021/1/8 18:06
  */
 @NoArgsConstructor
