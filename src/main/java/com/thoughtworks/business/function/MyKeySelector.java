@@ -6,7 +6,7 @@ import org.apache.flink.api.java.functions.KeySelector;
 /**
  * @author: spring du
  * @description: 自定义分组的Key函数
- * @date: 2021/1/6 18:03
+ * @date: 2021/1/8 18:03
  */
 public class MyKeySelector implements KeySelector<SensorInEntity, String> {
     @Override

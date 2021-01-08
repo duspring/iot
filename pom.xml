@@ -55,7 +55,6 @@
             <version>${slf4j-nop.version}</version>
         </dependency>
 
-
     </dependencies>
 
     <build>

@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * @author: spring du
  * @description:
- * @date: 2021/1/6 18:06
+ * @date: 2021/1/8 18:06
  */
 @NoArgsConstructor
 public class ComputeAverageWithListState extends RichFlatMapFunction<SensorInEntity, String> {

@@ -3,7 +3,7 @@ package com.thoughtworks.enums;
 /**
  * @author: spring du
  * @description: 枚举列表
- * @date: 2021/1/6 16:59
+ * @date: 2021/1/8 16:59
  */
 public enum MetricTypeEnum {
 

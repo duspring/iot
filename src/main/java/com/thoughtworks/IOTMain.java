@@ -7,7 +7,7 @@ import com.thoughtworks.constant.Constant;
 /**
  * @author: spring du
  * @description: IOT数据分析处理入口
- * @date: 2021/1/6 16:34
+ * @date: 2021/1/8 16:34
  */
 public class IOTMain {
     public static void main(String[] args) throws Exception {

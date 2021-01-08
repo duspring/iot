@@ -3,7 +3,7 @@ package com.thoughtworks.exception;
 /**
  * @author: spring du
  * @description: 异常基类
- * @date: 2021/1/6 16:54
+ * @date: 2021/1/8 16:54
  */
 public class BaseException extends RuntimeException {
 

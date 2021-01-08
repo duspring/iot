@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 /**
  * @author: spring du
  * @description: 传感器输入实体
- * @date: 2021/1/6 17:01
+ * @date: 2021/1/8 17:01
  */
 @Data
 @NoArgsConstructor
